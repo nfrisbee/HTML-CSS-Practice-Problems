@@ -8,7 +8,7 @@
 
 .content-left {
     width: 34%;
-    /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
+    float: left;
     height: 100px;
     background: #565555;
 }
@@ -18,7 +18,7 @@
 
 .content-mid {
     width: 66%;
-    /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
+    float: right;
     height: 100px;
     background: #B0B0B0;
 }
